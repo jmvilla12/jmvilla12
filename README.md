@@ -1,3 +1,6 @@
+# Welcome to my Github! 👨🏻‍💻
+![Welcome](https://pa1.aminoapps.com/6101/04c58d505bef85af347bc711341c6a77455ef100_hq.gif)
+
 ## Hi there 👋
 
 <!--
