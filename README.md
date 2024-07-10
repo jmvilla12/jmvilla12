@@ -1,5 +1,8 @@
 # Welcome to my Github! 👨🏻‍💻
-<img src="https://pa1.aminoapps.com/6101/04c58d505bef85af347bc711341c6a77455ef100_hq.gif" width="250" alt="Welcome">
+<div style="display: flex; justify-content: center; margin: 0px auto"></div>
+  <img src="https://pa1.aminoapps.com/6101/04c58d505bef85af347bc711341c6a77455ef100_hq.gif" width="250" alt="Welcome">
+</div>
+
 
 ## < "¡Hola Mundo!" /> 👋 I'm Jose 
 
