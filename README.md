@@ -1,7 +1,7 @@
 # Welcome to my Github! 👨🏻‍💻
-![Welcome](https://pa1.aminoapps.com/6101/04c58d505bef85af347bc711341c6a77455ef100_hq.gif)
+<img src="https://pa1.aminoapps.com/6101/04c58d505bef85af347bc711341c6a77455ef100_hq.gif" width="250" alt="Welcome">
 
-## Hi there 👋
+## < "¡Hola Mundo!" /> 👋 I'm Jose 
 
 <!--
 **jmvilla12/jmvilla12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
