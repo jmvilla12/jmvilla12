@@ -8,8 +8,8 @@
   <li>🤓 I'm a junior fullstack developer</li>
   <li>🔭 I'm currently working on my portfolio</li>
   <li>🗣️ I speak <img src = https://upload.wikimedia.org/wikipedia/commons/4/42/Flag_of_the_United_Kingdom.png height= 10px alt="gb-flag"> English, 
-    <img src = https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png height= 10px alt="spain-flag"> spanish 
-    & <img src = https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png height= 10px alt="france-flag"> french</li>
+    <img src = https://upload.wikimedia.org/wikipedia/commons/6/6f/Spain_flag_300.png height= 10px alt="spain-flag"> Spanish 
+    & <img src = https://upload.wikimedia.org/wikipedia/commons/6/62/Flag_of_France.png height= 10px alt="france-flag"> French</li>
 </ul>
 
 <h3>Main Skills <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 25px></h3>
