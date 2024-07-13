@@ -4,8 +4,8 @@
 </div>
 
 ## `< "¡Hola Mundo!" />` 👋 I'm Jose 
-I'm a junior fullstack developer </br>
-I'm currently working on my portfolio </br>
+- 🤓 I'm a junior fullstack developer </br>
+- 🔭 I'm currently working on my portfolio </br>
 
 ### Currently I'm using:
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -29,7 +29,9 @@ I'm currently working on my portfolio </br>
 ![Sqlite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
 
-## Contact me
+
+<h2><img src="https://media.tenor.com/_Z9Mq2Ct-2sAAAAi/hollow-knight-waking-up.gif" width="50" alt="Welcome">Contact me</h2>
+
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:josemanuel.villa@utp.edu.co)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jose-manuel-villa-romero/)
 <!--
@@ -37,7 +39,7 @@ I'm currently working on my portfolio </br>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+-  I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
